@@ -1,2 +1,2 @@
-# improved-pancake
+# Chips
 The better pancake
